@@ -31,5 +31,5 @@ The most important extension to date. Read its description in the Extensions tab
 
 
 ### Some resources to learn web dev
-https://www.w3schools.com/html/default.asp\
+https://www.w3schools.com/html/default.asp \
 https://www.w3schools.com/css/
